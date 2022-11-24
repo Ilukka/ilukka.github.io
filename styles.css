@@ -1,0 +1,88 @@
+
+
+body {
+  background-image: url('eclogo2.jpg');
+}
+
+
+header {	
+  
+  font-family: "Lucida Console", "Courier New", monospace, serif;
+  padding: 100px;
+  
+  text-align: center;
+  color: grey;
+}
+ 
+
+ .table { 
+ border-color: black;
+	 background-color: white;
+ }
+ .content { float: right;
+	
+  box-shadow: 5px 10px #888888;
+	padding: 20px;
+	background-color: white;}
+ 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+#footer .linkedin {
+  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+  background-repeat: no-repeat;
+  background-position: -78px 0;
+}
+#footer .facebook {
+  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+  background-repeat: no-repeat;
+  background-position: -233px 0;
+}
+
+
+#footer a {
+  height: 56px;
+  width: 56px;
+  display: inline-block;
+  margin: 10px;
+}
+
+
+#footer .facebook:hover {
+  background-position: -233px -56px;
+}
+
+#footer .linkedin:hover {
+  background-position: -78px -56px;
+}
+
+
+.bg-dark-1{ color: grey;
+	padding: 40px;
+
+
+ }
+
+ .kuvateksti{ color: black;
+ }
+ .songlist { color: grey;
+			text-align: center;
+ }
+ .container { float: right;}
+ 
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%; 
+	
+}
+ .mikkikuva { float: right;
+	
+}
+ 
