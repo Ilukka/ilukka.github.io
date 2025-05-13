@@ -32,7 +32,9 @@ header {
   width: 50%;
 }
 
-
+.laulutausta {
+  background-color: antiquewhite;
+}
 
 #footer .linkedin {
   background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
